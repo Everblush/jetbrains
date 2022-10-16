@@ -1,0 +1,53 @@
+{
+  "author": "Everblush",
+  "dark": true,
+  "name": "Everblush",
+  "editorScheme": "/theme/Everblush.xml",
+
+  "colors": {
+    "red":       "#e57474",
+    "orange":    "#fcb163",
+    "green":     "#8ccf7e",
+    "yellow":    "#e5c76b",
+    "blue":      "#67b0e8",
+    "magenta":   "#c47fd5",
+    "cyan":      "#6cbfbf",
+    "lavender":  "#bab3e5",
+    "sky-blue":  "#5db7cb",
+    "teal":      "#9bdead",
+    "pink":      "#ee9cdd",
+    "black0":    "#0a1114",
+    "black1":    "#0f1619",
+    "black2":    "#141b1e",
+    "black3":    "#1b2225",
+    "black4":    "#2a3134",
+    "gray0":     "#aeb4b3",
+    "gray1":     "#b3b9b8",
+    "gray2":     "#bcc2c1",
+    "white":     "#dadada",
+    "accentColor": "#9bdead",
+    "secondaryAccentColor": "#bab3e5",
+    "primaryForeground": "#dadada",
+    "primaryBackground": "#141b1e",
+    "secondaryBackground": "#0f1619",
+    "hoverBackground": "#2a3134",
+    "selectionBackground": "#2a3134",
+    "selectionInactiveBackground": "#1b2225",
+    "borderColor": "#282f32",
+    "separatorColor": "#282f32"
+  },
+
+  "ui": {
+    "Button": {
+      "background": "#3c3f41",
+      "arc": 4
+    }
+  },
+  "background": {
+    "anchor": "center",
+    "fill": "plain",
+    "transparency": 80,
+    "image": "images/background.png"
+  }
+}
+

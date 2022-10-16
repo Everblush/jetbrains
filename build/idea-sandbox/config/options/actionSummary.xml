@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ChangeLaf">
+      <i c="1" d="1" l="1664611472708" k="1664611472708" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1664685882034" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1664685881131" />
+    </e>
+    <e n="Exit">
+      <i c="8" l="1665508200917" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1664688135776" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1664611471413" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1664688084966" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1664611402401" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="2" l="1664617994375" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1664616679709" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1664611472678" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1664616685411" />
+    </e>
+  </component>
+</application>

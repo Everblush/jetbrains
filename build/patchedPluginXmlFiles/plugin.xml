@@ -1,0 +1,19 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+  <version>0.0.1</version>
+  <change-notes>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Initial scaffold created from &lt;a href="https://github.com/JetBrains/intellij-platform-plugin-template"&gt;IntelliJ Platform Plugin Template&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</change-notes>
+  <description>&lt;p&gt;This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.&lt;/p&gt;
+
+&lt;p&gt;This specific section is a source for the &lt;a href="/src/main/resources/META-INF/plugin.xml"&gt;plugin.xml&lt;/a&gt; file which will be extracted by the &lt;a href="/build.gradle.kts"&gt;Gradle&lt;/a&gt; during the build process.&lt;/p&gt;
+
+&lt;p&gt;To keep everything working, do not remove &lt;code&gt;&amp;lt;!-- ... --&amp;gt;&lt;/code&gt; sections.&lt;/p&gt;</description>
+  <idea-version since-build="213" until-build="222.*" />
+  <id>com.github.primalkz.everblushtheme</id>
+  <name>EverblushTheme</name>
+  <vendor>primalkz</vendor>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="com.github.primalkz.everblushtheme" path="/theme/Everblush.theme.json" />
+  </extensions>
+</idea-plugin>

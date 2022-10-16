@@ -1,0 +1,39 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2FTKb3MtaSR78sOown8uYOlz3r9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-222.4345.14/2022.2.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2022.2.3" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.7172.25" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/learnJava" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="gotit.previous.run" value="IC-213.7172.25" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="idea.background.editor" value="/tmp/ijBackgroundImage.png,70,plain,bottom_right" />
+    <property name="ift.learning.panel.opened.in" value="213.7172.25" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ7172.25" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/learnJava" />
+    <property name="old.idea.background.editor" value="/tmp/ijBackgroundImage.png,70,plain,bottom_right" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1665507265927" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.7172.25" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

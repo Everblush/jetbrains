@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="87.008796%" y1="503.778401%" x2="-7.04035188%" y2="-190.505516%" id="linearGradient-1">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#C88906" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.178874%" y1="265.468177%" x2="-41.436258%" y2="-92.3504582%" id="linearGradient-2">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-36.2251727%" y1="-165.033481%" x2="121.014933%" y2="221.613595%" id="linearGradient-3">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="48x48-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Icon" transform="translate(2.000000, 7.000000)">
+            <g id="Group">
+                <polygon id="Rectangle" fill="url(#linearGradient-1)" points="6.2324424 10.442623 28.0304083 10.442623 30.5141879 15.2163934 9.10639904 15.2163934"></polygon>
+                <path d="M12.8280331,-7.44579168e-14 L34.5695281,-6.88338275e-14 C35.710313,-6.70169453e-14 36.6351019,0.924788877 36.6351019,2.06557377 C36.6351019,2.37680035 36.5647729,2.68400368 36.4293692,2.96423185 L32.8158794,10.442623 L6.28579633,10.442623 L12.234717,0.339179308 C12.3584601,0.129018292 12.5841479,-7.52174581e-14 12.8280331,-7.48290319e-14 Z" id="Rectangle" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <path d="M6.54223678,15.2163934 L28.2837318,15.2163934 C29.4245167,15.2163934 30.3493056,16.1411823 30.3493056,17.2819672 C30.3493056,17.5931938 30.2789765,17.9003971 30.1435729,18.1806253 L26.5300831,25.6590164 L-4.26325641e-14,25.6590164 L5.94892069,15.5555728 C6.07266377,15.3454117 6.29835156,15.2163934 6.54223678,15.2163934 Z" id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" transform="translate(15.257872, 20.437705) scale(-1, -1) translate(-15.257872, -20.437705) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
