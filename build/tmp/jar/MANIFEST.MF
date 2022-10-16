@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Gradle 7.5.1
+Build-JVM: 11.0.16.1 (Oracle Corporation 11.0.16.1+1)
+Version: 0.0.1
+Build-Plugin: Gradle IntelliJ Plugin
+Build-Plugin-Version: 1.8.0
+Build-OS: Linux 5.19.10-zen1-1-zen amd64
+Build-SDK: IC-2021.3.3
+

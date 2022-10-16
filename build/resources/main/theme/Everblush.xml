@@ -1,0 +1,10 @@
+<scheme name="Everblush" version="1" parent_scheme="Darcula">
+    <attributes>
+        <option name="TEXT" value="00ff00"/>
+        <option name="HTML_ATTRIBUTE_VALUE">
+                <value>
+                    <option name="FOREGROUND" value="a5c262" />
+                </value>
+        </option>
+    </attributes>
+</scheme>
